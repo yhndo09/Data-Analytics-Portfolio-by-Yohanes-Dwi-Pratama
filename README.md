@@ -54,7 +54,8 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - Calculated field
 - Interactive Dashboard
 
-### Deck and Sample Dashboard:
-- [Deck Samba Commerce Dataset](https://docs.google.com/presentation/d/108Fw5F9V1dhDzcypIAfEm1_G7P2EVOg6a-MnE9D45rk/edit?usp=sharing)
-- [Dashboard Samba Commerce Dataset](https://public.tableau.com/views/W10W11_JAN23_Yohanes_Dwi_Pratama_Intermediate/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- 
+### Sample Project:
+1. Samba Commerce (E-Commerce Dataset)
+
+[Deck Samba Commerce Dataset](https://docs.google.com/presentation/d/108Fw5F9V1dhDzcypIAfEm1_G7P2EVOg6a-MnE9D45rk/edit?usp=sharing) || [Dashboard Samba Commerce Dataset](https://public.tableau.com/views/W10W11_JAN23_Yohanes_Dwi_Pratama_Intermediate/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+2.  

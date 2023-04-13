@@ -38,9 +38,14 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - RFM Analysis
 - Logistic Regresion
 
-### Code Example :
-1. a
-2. b 
+### Sample Project :
+1. [Marketing Strategy to Maintain Bank Customer Churn (EDA, Cluster Analysis, Correlation, and Logistic Regretion)]
+
+[Python Google Colab Code](https://colab.research.google.com/drive/1iSnaMC0208hwsNJXRv1_EX9zLed0cVDX?usp=sharing)
+[Tableau Dashboard]()
+[Deck Presentation](https://docs.google.com/presentation/d/1qmP8rINnzC6lGy4TCoVm9XauNXc4IKjH/edit?usp=sharing&ouid=101861423115400132303&rtpof=true&sd=true)
+
+2.  
 
 ## Dataviz using Tableau:
 - Connect and combine/ join datasets

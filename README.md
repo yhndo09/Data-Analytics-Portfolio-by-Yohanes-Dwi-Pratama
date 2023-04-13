@@ -6,7 +6,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - Data Cleaning
 - Query Table
 - Pivot Table
-- Vlookup
+- Lookup (Vlookup, Hlookup, Xlookup)
 - Descriptive Statistics
 - Data Visualization
 - Gathering Insights

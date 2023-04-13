@@ -39,7 +39,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - Logistic Regresion
 
 ### Sample Project :
-1. [Marketing Strategy to Maintain Bank Customer Churn (EDA, Cluster Analysis, Correlation, and Logistic Regretion)]
+1. Marketing Strategy to Maintain Bank Customer Churn (EDA, Cluster Analysis, Correlation, and Logistic Regretion)
 
 [Python Google Colab Code](https://colab.research.google.com/drive/1iSnaMC0208hwsNJXRv1_EX9zLed0cVDX?usp=sharing) ||
 [Tableau Dashboard]() ||

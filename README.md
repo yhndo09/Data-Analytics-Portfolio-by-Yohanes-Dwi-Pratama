@@ -4,11 +4,9 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 
 ## Spreadsheet/ Excel Skill sets:
 - Data Cleaning
-- Query Table
 - Pivot Table
 - Lookup (Vlookup, Hlookup, Xlookup)
-- Descriptive Statistics
-- Hypotesis Testing and A/B testing
+- Descriptive Statistics and Hypotesis Testing or A/B testing (Using Google Add-ons XLMiner Analysis Toolpak)
 - Gathering Insights
 - [Certified Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/certificate/UC-93a810f6-9a4c-4d61-b0dd-3676e760d63f/)
 

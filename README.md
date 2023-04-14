@@ -13,7 +13,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - [Certified Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/certificate/UC-93a810f6-9a4c-4d61-b0dd-3676e760d63f/)
 
 ### Work experience using excel, as freelancer in Upwork:
-[Upwork Profile](https://www.upwork.com/freelancers/~0127aa0b9032fdc2f2)
+[Upwork Profile](https://www.upwork.com/freelancers/~0127aa0b9032fdc2f2?s=1110580752008335360)
 
 ## SQL Skill sets:
 - Standard Query Syntax

@@ -42,7 +42,6 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 [Tableau Dashboard](https://public.tableau.com/views/BankCustomerChurnAnalysis_/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) ||
 [Deck Presentation](https://docs.google.com/presentation/d/1qmP8rINnzC6lGy4TCoVm9XauNXc4IKjH/edit?usp=sharing&ouid=101861423115400132303&rtpof=true&sd=true)
 
-2.  
 
 ## Dataviz using Tableau:
 - Connect and combine/ join datasets
@@ -55,4 +54,3 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 1. Samba Commerce (E-Commerce Dataset)
 
 [Deck Samba Commerce Dataset](https://docs.google.com/presentation/d/108Fw5F9V1dhDzcypIAfEm1_G7P2EVOg6a-MnE9D45rk/edit?usp=sharing) || [Dashboard Samba Commerce Dataset](https://public.tableau.com/views/W10W11_JAN23_Yohanes_Dwi_Pratama_Intermediate/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-2.  

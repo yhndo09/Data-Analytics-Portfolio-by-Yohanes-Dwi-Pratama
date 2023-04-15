@@ -13,7 +13,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 ### Work experience using excel, as freelancer in Upwork:
 [Upwork Profile](https://www.upwork.com/freelancers/~0127aa0b9032fdc2f2?s=1110580752008335360)
 
-## SQL Skill sets:
+## SQL Bigquery Skill sets:
 - Standard Query Syntax
 - SQL Aggregate Functions
 - SQL Joins

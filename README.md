@@ -47,7 +47,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - Connect and combine/ join datasets
 - Data formatting
 - Visualization
-- Calculated field
+- Calculated field (Pareto, Cohort Analysis)
 - Interactive Dashboard
 
 ### Sample Project:

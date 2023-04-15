@@ -21,10 +21,9 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - SQL Date Format
 - SQL Window Function
 
-### Code Example :
-1. a
-2. b 
-3. c
+### Sample Project :
+[Entity Relationship Diagram (ERD) of the business case](https://drive.google.com/file/d/1OSpmrYpdZIIKwvW6Q5t68qEvRKhfDF_9/view) || [Business Question and Query Code](https://docs.google.com/presentation/d/1S7A7epu2edyx1K0FM3NWyZZF2SVRuoYTM5dxnoCWHr4/edit?usp=sharing)
+ 
 
 ## Python Skill sets:
 - Data Cleaning (Removing irrelevant values, Handling missing data, Removing duplicates, String manipulation)

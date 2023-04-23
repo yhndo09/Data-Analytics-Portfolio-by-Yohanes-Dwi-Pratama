@@ -33,6 +33,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - Correlation
 - Cluster Analysis (K-means and Silhouette Analysis)
 - RFM Analysis
+- Linear Regresion
 - Logistic Regresion
 
 ### Sample Project :
@@ -45,6 +46,10 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 2. Logistic Regression to Explore Variables Affecting Employee Attrition
 
 [Python Google Colab Code](https://colab.research.google.com/drive/1biaLnyGcf-uXrSaG6a6ZJqPcLLCyZEXf?usp=sharing)
+
+3. Linear Regression (Price/sqft of Property Listing)
+
+[Python Google Colab Code](https://colab.research.google.com/drive/1uesjD4uCrlinW2qp8Npkw8AWWC9WKK7l?usp=sharing)
 
 ## Dataviz using Tableau:
 - Connect and combine/ join datasets

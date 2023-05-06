@@ -1,6 +1,15 @@
 # Data Analytics Portfolio by Yohanes Dwi Pratama
 
-Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio as Data Analyst, please check it out!
+Hi! My name is Yohanes Dwi Pratama, just called me Yohan.
+
+My Data Analytic Skill Including:
+- Statistics: Structural Equation Modeling (SEM), Hypothesis Testing, Customer Segmentation (K-Means and Silhouette) , Regressions (linear and logistic), Time Series Analysis, Cohort Analysis, RFM Analysis.
+- Programming languages: Python - Colaboratory (Pandas, NumPy), Imacros, Excel-VBA
+- Database: SQL Bigquery, SQL Server.
+- Visualization: Tableau, Python (Matplotlib, Seaborn, Plotly), Looker Studio.
+- Software: AMOS, Excel, Spreadsheet.
+
+Here is my Portfolio as Data Analyst, please check it out!
 
 ## Spreadsheet/ Excel Skill sets:
 - Data Cleaning

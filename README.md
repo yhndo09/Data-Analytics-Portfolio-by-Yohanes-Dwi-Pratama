@@ -56,7 +56,7 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 [Python Google Colab Code](https://colab.research.google.com/drive/1biaLnyGcf-uXrSaG6a6ZJqPcLLCyZEXf?usp=sharing)
 
-3. Linear Regression (Price/sqft of Property Listing)
+3. Linear Regression to predict Price/sqft of Property Listing
 
 [Python Google Colab Code](https://colab.research.google.com/drive/1uesjD4uCrlinW2qp8Npkw8AWWC9WKK7l?usp=sharing)
 

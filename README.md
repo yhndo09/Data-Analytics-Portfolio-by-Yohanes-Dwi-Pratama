@@ -32,7 +32,9 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 ### Sample Project :
 1. TheLook Commerce Business Case
+   
    Problem: 
+   
    Result: [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1OSpmrYpdZIIKwvW6Q5t68qEvRKhfDF_9/view) || [Business Question and Query Code](https://docs.google.com/presentation/d/1S7A7epu2edyx1K0FM3NWyZZF2SVRuoYTM5dxnoCWHr4/edit?usp=sharing)
 
 2. [EDA Company Business Performance (Ads Campaign, Product Sales, Service Sales)](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)

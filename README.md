@@ -37,8 +37,12 @@ Here is my Portfolio as Data Analyst, please check it out!
    
    Result: [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1OSpmrYpdZIIKwvW6Q5t68qEvRKhfDF_9/view) || [Business Question and Query Code](https://docs.google.com/presentation/d/1S7A7epu2edyx1K0FM3NWyZZF2SVRuoYTM5dxnoCWHr4/edit?usp=sharing)
 
-2. [EDA Company Business Performance (Ads Campaign, Product Sales, Service Sales)](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
-
+2. EDA Company Business Performance (Ads Campaign, Product Sales, Service Sales)
+    Business Problem: There was a decline in the trend of ROAS during the first 8 months the company ran its business
+    
+    Problem Statement: How to increase ROAS to minimal 5 within 3 months 
+   
+    Analysis Result: [Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
 ## Python Skill sets:
 - Data Cleaning (Removing irrelevant values, Handling missing data, Removing duplicates, String manipulation)
 - Exploratory Data Analysis/ EDA (Handling Outlier, Descriptive statistic of numerical and string variable, and analyzing using visualization)

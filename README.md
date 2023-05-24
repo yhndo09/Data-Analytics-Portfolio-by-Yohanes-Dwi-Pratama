@@ -1,6 +1,6 @@
 # Data Analytics Portfolio by Yohanes Dwi Pratama
 
-Hi! My name is Yohanes Dwi Pratama, just called me Yohan. <br> Here is my Portfolio as Data Analyst, please check it out!
+Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio as Data Analyst, please check it out!
 
 ## Spreadsheet/ Excel Skill sets:
 - Data Cleaning

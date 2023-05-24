@@ -31,13 +31,14 @@ Here is my Portfolio as Data Analyst, please check it out!
 - SQL Window Function
 
 ### Sample Project :
-1. TheLook Commerce Business Case  <br>
-   Result: [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1OSpmrYpdZIIKwvW6Q5t68qEvRKhfDF_9/view) || [Business Question and Query Code](https://docs.google.com/presentation/d/1S7A7epu2edyx1K0FM3NWyZZF2SVRuoYTM5dxnoCWHr4/edit?usp=sharing)
+1. TheLook Commerce Business Case 
+      - Result: [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1OSpmrYpdZIIKwvW6Q5t68qEvRKhfDF_9/view) || [Deck Business Question and Query Code](https://docs.google.com/presentation/d/1S7A7epu2edyx1K0FM3NWyZZF2SVRuoYTM5dxnoCWHr4/edit?usp=sharing)
 
 2. EDA Company Business Performance (Ads Campaign, Product Sales, Service Sales)
    
-   Business Problem: There was a decline in the trend of ROAS during the first 8 months the company ran its business 
-   <br> Problem Statement: How to increase ROAS to minimal 5 within 3 months <br> [Analysis Result: Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
+      - Business Problem: There was a decline in the trend of ROAS during the first 8 months the company ran its business 
+      - Problem Statement: How to increase ROAS to minimal 5 within 3 months 
+      - [Analysis Result: Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
 
 ## Python Skill sets:
 - Data Cleaning (Removing irrelevant values, Handling missing data, Removing duplicates, String manipulation)
@@ -52,18 +53,13 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 ### Sample Project :
 1. Marketing Strategy to Maintain Bank Customer Churn (EDA, Cluster Analysis, Correlation, and Logistic Regression)
-
-[Python Google Colab Code](https://colab.research.google.com/drive/1iSnaMC0208hwsNJXRv1_EX9zLed0cVDX?usp=sharing) ||
-[Tableau Dashboard](https://public.tableau.com/views/BankCustomerChurnAnalysis_/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) ||
-[Deck Presentation](https://docs.google.com/presentation/d/1qmP8rINnzC6lGy4TCoVm9XauNXc4IKjH/edit?usp=sharing&ouid=101861423115400132303&rtpof=true&sd=true)
+      - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1iSnaMC0208hwsNJXRv1_EX9zLed0cVDX?usp=sharing) || [Tableau Dashboard](https://public.tableau.com/views/BankCustomerChurnAnalysis_/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) || [Deck Presentation](https://docs.google.com/presentation/d/1qmP8rINnzC6lGy4TCoVm9XauNXc4IKjH/edit?usp=sharing&ouid=101861423115400132303&rtpof=true&sd=true)
 
 2. Logistic Regression to Explore Variables Affecting Employee Attrition
-
-[Python Google Colab Code](https://colab.research.google.com/drive/1biaLnyGcf-uXrSaG6a6ZJqPcLLCyZEXf?usp=sharing)
+      - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1biaLnyGcf-uXrSaG6a6ZJqPcLLCyZEXf?usp=sharing)
 
 3. Linear Regression to predict Price/sqft of Property Listing
-
-[Python Google Colab Code](https://colab.research.google.com/drive/1uesjD4uCrlinW2qp8Npkw8AWWC9WKK7l?usp=sharing)
+      - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1uesjD4uCrlinW2qp8Npkw8AWWC9WKK7l?usp=sharing)
 
 ## Dataviz using Tableau:
 - Connect and combine/ join datasets
@@ -74,5 +70,4 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 ### Sample Project:
 1. Samba Commerce (E-Commerce Dataset)
-
-[Deck Samba Commerce Dataset](https://docs.google.com/presentation/d/108Fw5F9V1dhDzcypIAfEm1_G7P2EVOg6a-MnE9D45rk/edit?usp=sharing) || [Dashboard Samba Commerce Dataset](https://public.tableau.com/views/W10W11_JAN23_Yohanes_Dwi_Pratama_Intermediate/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+      - Result: [Deck Samba Commerce Dataset](https://docs.google.com/presentation/d/108Fw5F9V1dhDzcypIAfEm1_G7P2EVOg6a-MnE9D45rk/edit?usp=sharing) || [Dashboard Samba Commerce Dataset](https://public.tableau.com/views/W10W11_JAN23_Yohanes_Dwi_Pratama_Intermediate/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)

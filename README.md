@@ -53,7 +53,7 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 ### Sample Project :
 1. Marketing Strategy to Maintain Bank Customer Churn (EDA, Cluster Analysis, Correlation, and Logistic Regression)
-      - Business Problem: This business has a problem with customer churn which in total 2022 customers or 20% choose to leave the bank and there were no targeted marketing campaigns for certain customer groups.
+      - Business Problem: The company have 10000 customers, but 2022 customers or 20,22% choose to leave the bank and right now there were no targeted marketing campaigns for certain customer groups.
       - Problem Statement: How to decrease churn rate from 20% to 15% in 6 months
       - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1iSnaMC0208hwsNJXRv1_EX9zLed0cVDX?usp=sharing) || [Tableau Dashboard](https://public.tableau.com/views/BankCustomerChurnAnalysis_/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) || [Deck Presentation](https://docs.google.com/presentation/d/1qmP8rINnzC6lGy4TCoVm9XauNXc4IKjH/edit?usp=sharing&ouid=101861423115400132303&rtpof=true&sd=true)
 

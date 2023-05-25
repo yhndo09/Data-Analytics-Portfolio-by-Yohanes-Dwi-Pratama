@@ -25,7 +25,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 1. TheLook Commerce Business Case 
       - Result: [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1OSpmrYpdZIIKwvW6Q5t68qEvRKhfDF_9/view) || [Deck Business Question and Query Code](https://docs.google.com/presentation/d/1S7A7epu2edyx1K0FM3NWyZZF2SVRuoYTM5dxnoCWHr4/edit?usp=sharing)
 
-2. EDA Company Business Performance (Ads Campaign, Product Sales, Service Sales)
+2. B2C Company Performance Improvement Strategy	
    
       - Business Problem: There was a decline in the trend of ROAS during the first 8 months the company ran its business 
       - Objective: To increase ROAS minimal 5 within 3 months 
@@ -62,5 +62,5 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - Interactive Dashboard
 
 ### Sample Project:
-1. Samba Commerce (E-Commerce Dataset)
+1. E-Commerce Sales Performance Dashboard
       - Result: [Deck Samba Commerce Dataset](https://docs.google.com/presentation/d/108Fw5F9V1dhDzcypIAfEm1_G7P2EVOg6a-MnE9D45rk/edit?usp=sharing) || [Dashboard Samba Commerce Dataset](https://public.tableau.com/views/W10W11_JAN23_Yohanes_Dwi_Pratama_Intermediate/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)

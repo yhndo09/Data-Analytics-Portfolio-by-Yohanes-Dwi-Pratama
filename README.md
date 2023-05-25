@@ -27,9 +27,9 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 
 2. B2C Company Performance Improvement Strategy	
    
-      - Business Problem: There was a decline in the trend of ROAS during the first 8 months the company ran its business 
-      - Objective: To increase ROAS to at least 5 for the next campaign. 
-      - [Result: Analysis and Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
+      - Business Problem      : There was a decline in the trend of ROAS during the first 8 months the company ran its business 
+      - Objective             : To increase ROAS to at least 5 for the next campaign. 
+      - [Result               : Analysis and Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
 
 ## Python Skill sets:
 - Data Cleaning (Removing irrelevant values, Handling missing data, Removing duplicates, String manipulation)

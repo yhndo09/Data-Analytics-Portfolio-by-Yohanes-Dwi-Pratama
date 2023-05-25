@@ -28,7 +28,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 2. EDA Company Business Performance (Ads Campaign, Product Sales, Service Sales)
    
       - Business Problem: There was a decline in the trend of ROAS during the first 8 months the company ran its business 
-      - Problem Statement: How to increase ROAS to minimal 5 within 3 months 
+      - Objective: To increase ROAS minimal 5 within 3 months 
       - [Result: Analysis and Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
 
 ## Python Skill sets:
@@ -39,13 +39,13 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 - Correlation
 - Cluster Analysis (K-means and Silhouette Analysis)
 - RFM Analysis
-- Linear Regresion
-- Logistic Regresion
+- Linear Regression
+- Logistic Regression
 
 ### Sample Project :
 1. Marketing Strategy to Maintain Bank Customer Churn (EDA, Cluster Analysis, Correlation, and Logistic Regression)
       - Business Problem: The company have 10000 customers, but 2022 customers or 20,22% choose to leave the bank and right now there were no targeted marketing campaigns for certain customer groups.
-      - Problem Statement: How to decrease churn rate from 20% to 15% in 6 months
+      - Objective: To decrease churn rate from 20% to 15% in 6 months
       - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1iSnaMC0208hwsNJXRv1_EX9zLed0cVDX?usp=sharing) || [Tableau Dashboard](https://public.tableau.com/views/BankCustomerChurnAnalysis_/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) || [Deck Presentation](https://docs.google.com/presentation/d/1qmP8rINnzC6lGy4TCoVm9XauNXc4IKjH/edit?usp=sharing&ouid=101861423115400132303&rtpof=true&sd=true)
 
 2. Logistic Regression to Explore Variables Affecting Employee Attrition

@@ -29,7 +29,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
    
       - Business Problem      : There was a decline in the trend of ROAS during the first 8 months the company ran its business 
       - Objective             : To increase ROAS to at least 5 for the next campaign. 
-      - Result                : [Analysis and Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing) <br> 1. Perform forecasting, RFM analysis, and 4P marketing mix analysis using SQL, Python, and Tableau.<br> 2. Successfully predict product stock, separate customers into 3 unique clusters, and evaluate product, price, place, and promotion. <br> 3. Provide recommendations for increasing ROAS to at least 5 for the next campaign. 
+      - Result                : [Analysis and Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
 
 
 ## Python Skill sets:

@@ -23,6 +23,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 
 ### Sample Project :
 1. TheLook Commerce Business Case 
+      - Exploratory Data Analysis (EDA)
       - Result: [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1OSpmrYpdZIIKwvW6Q5t68qEvRKhfDF_9/view) || [Deck Business Question and Query Code](https://docs.google.com/presentation/d/1S7A7epu2edyx1K0FM3NWyZZF2SVRuoYTM5dxnoCWHr4/edit?usp=sharing)
 
 2. B2C Company Performance Improvement Strategy	

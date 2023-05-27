@@ -1,8 +1,14 @@
 # Data Analytics Portfolio by Yohanes Dwi Pratama
 
-Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio as Data Analyst, please check it out!
+Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio as Data Analyst, please check it out!<br><br>
+Overall my skill including:
+- Statistics: Structural Equation Modeling (SEM), Hypothesis Testing, Customer Segmentation (K-Means and Silhouette) , Regressions (linear and logistic), Time Series Analysis, Cohort Analysis, RFM Analysis.<br>
+- Programming languages: Python - Colaboratory (Pandas, NumPy), Imacros, Excel-VBA.<br>
+- Database: SQL Bigquery, SQL Server.<br>
+- Visualization: Tableau, Python (Matplotlib, Seaborn, Plotly), Looker Studio..<br>
+- Software: AMOS, Excel, Spreadsheet.
 
-## Spreadsheet/ Excel Skill sets:
+## 1. Spreadsheet/ Excel Skill sets:
 - Data Cleaning
 - Pivot Table
 - Lookup (Vlookup, Hlookup, Xlookup)
@@ -13,7 +19,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 ### Work experience using excel, as freelancer in Upwork:
 [Upwork Profile](https://www.upwork.com/freelancers/~0127aa0b9032fdc2f2?s=1110580752008335360)
 
-## SQL Bigquery Skill sets:
+## 2. SQL Bigquery Skill sets:
 - Standard Query Syntax
 - SQL Aggregate Functions
 - SQL Joins
@@ -33,7 +39,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
       - Result                : [Analysis and Query Code](https://docs.google.com/document/d/10ThtOV9hk8l7x2l9EoUIETn7lU-3yDncNN8yBtSjx78/edit?usp=sharing)
 
 
-## Python Skill sets:
+## 3. Python Skill sets:
 - Data Cleaning (Removing irrelevant values, Handling missing data, Removing duplicates, String manipulation)
 - Exploratory Data Analysis/ EDA (Handling Outlier, Descriptive statistic of numerical and string variable, and analyzing using visualization)
 - Combine & merge datasets
@@ -60,7 +66,7 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
       - Objective: Provides estimated price/sqft of each property so that the company can get the maximum profit based on the property that the customer requests.
       - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1uesjD4uCrlinW2qp8Npkw8AWWC9WKK7l?usp=sharing)
 
-## Dataviz using Tableau:
+## 4. Dataviz using Tableau:
 - Connect and combine/ join datasets
 - Data formatting
 - Visualization

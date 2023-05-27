@@ -51,9 +51,13 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
       - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1iSnaMC0208hwsNJXRv1_EX9zLed0cVDX?usp=sharing) || [Tableau Dashboard](https://public.tableau.com/views/BankCustomerChurnAnalysis_/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) || [Deck Presentation](https://docs.google.com/presentation/d/1qmP8rINnzC6lGy4TCoVm9XauNXc4IKjH/edit?usp=sharing&ouid=101861423115400132303&rtpof=true&sd=true)
 
 2. Logistic Regression to Explore Variables Affecting Employee Attrition
+      - Business Problem: the company have 4000 employees and currently their attrition rate every year is15% resulting in vacant position that need to be replaced with the new talent that is available in the market.
+      - Objective: To find the variables that affect attrition and establish reviewable metrics to reduce the attrition rate to less than 15% within 1 year.
       - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1biaLnyGcf-uXrSaG6a6ZJqPcLLCyZEXf?usp=sharing)
 
 3. Linear Regression to predict Price/sqft of Property Listing
+      - Business Problem: The company gets profits based on a joint-profit sharing of 20% of the property price. The limitation in getting high profits by selling property at high prices is the large amount of space available or the property being too large.
+      - Objective: Provides estimated price/sqft of each property so that the company can get the maximum profit based on the property that the customer requests.
       - Result: [Python Google Colab Code](https://colab.research.google.com/drive/1uesjD4uCrlinW2qp8Npkw8AWWC9WKK7l?usp=sharing)
 
 ## Dataviz using Tableau:
@@ -65,4 +69,5 @@ Hi! My name is Yohanes Dwi Pratama, just called me Yohan. Here is my Portfolio a
 
 ### Sample Project:
 1. E-Commerce Sales Performance Dashboard
+      - Objective: To find out the performance of Samba Commerce's business based on the number of transactions that occurred starting from the emergence of the company in 2021. 
       - Result: [Deck Samba Commerce Dataset](https://docs.google.com/presentation/d/108Fw5F9V1dhDzcypIAfEm1_G7P2EVOg6a-MnE9D45rk/edit?usp=sharing) || [Dashboard Samba Commerce Dataset](https://public.tableau.com/views/W10W11_JAN23_Yohanes_Dwi_Pratama_Intermediate/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)

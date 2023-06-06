@@ -28,7 +28,7 @@ Overall my skill including:
 - SQL Window Function
 
 ### Sample Project :
-1. TheLook Commerce Business Case 
+1. E-Commerce Clothing Business Performance Analysis 
       - Exploratory Data Analysis (EDA)
       - Result: [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1OSpmrYpdZIIKwvW6Q5t68qEvRKhfDF_9/view) || [Deck Business Question and Query Code](https://docs.google.com/presentation/d/1S7A7epu2edyx1K0FM3NWyZZF2SVRuoYTM5dxnoCWHr4/edit?usp=sharing)
 
